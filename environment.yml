@@ -1,0 +1,8 @@
+name: config
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+
