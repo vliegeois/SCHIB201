@@ -8,6 +8,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.vscode
 
 # IPython
 profile_default/
@@ -44,4 +45,5 @@ venv.bak/
 
 #
 gas*.pdf
+gas*.mp4
 
